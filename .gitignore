@@ -1,0 +1,46 @@
+# ---- Compiled output ----
+out/
+bin/
+*.class
+
+# ---- Audio assets, not redistributed ----
+# The screaming-ball samples are large and are not mine to publish.
+# See the README for how to obtain them and where to drop them.
+exodecorateur_angryballs/maladroit/bruits/huey2.wav
+exodecorateur_angryballs/maladroit/bruits/spitfire.wav
+exodecorateur_angryballs/maladroit/bruits/sabrelaser.wav
+exodecorateur_angryballs/maladroit/bruits/loups.wav
+exodecorateur_angryballs/maladroit/bruits/crapaud.wav
+exodecorateur_angryballs/maladroit/bruits/balle_pingpong.wav
+
+# ---- C++ flame server, not redistributed ----
+TestServeurFlammes.exe
+config_serveur_flammes.txt
+
+# ---- Course material, not redistributed ----
+*.doc
+*.docx
+*.pdf
+*.ppt
+*.pptx
+
+# ---- IDE and tooling ----
+.vs/
+.metadata/
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+*.swp
+*~
+
+# ---- Build tools ----
+target/
+build/
+.gradle/
+
+# ---- OS ----
+Thumbs.db
+desktop.ini
+.DS_Store
